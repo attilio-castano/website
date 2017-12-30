@@ -18,7 +18,17 @@
           </span>
         </label>
 
+ <div class="trigger">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="page-link" href={{ site.baseurl}}/teaching/ >Teaching</a>
+           <a class="page-link" href={{ site.baseurl}}/talks/ >Talks</a>
+          <a class="page-link" href={{ site.baseurl}}/notes/ >Notes</a>
+</div>
+<!------------------
         <div class="trigger">
+            <a class="page-link" href="{{ index.url | relative_url }}">{{ index.title | escape }}</a>
+
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title%}
@@ -26,7 +36,9 @@
             {% endif %}
           {% endfor %}
         </div>
+--------------------->
       </nav>
     {% endif %}
   </div>
 </header>
+

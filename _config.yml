@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Sanal Shivaprasad
 email: sanal@umich.edu
-description: This site was created using Jekyll theme minima. I will make the source code available soon.
+description: This site was created using Jekyll theme [minima](https://github.com/jekyll/minima). I will make the source code available soon.
 url: "http://www-personal.umich.edu/~sanal" # the base hostname & protocol for your site, e.g. http://example.comsss
 baseurl: "/~sanal"
 twitter_username:

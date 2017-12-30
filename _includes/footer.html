@@ -1,0 +1,50 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% endif %}
+            </li>
+<li>Department of Mathematics </li>
+<li>University of Michigan, Ann Arbor </li>
+<li>B722 East Hall </li>
+<li>530 Church Street </li>
+<li>Ann Arbor, MI 48109 </li> 
+            {% if site.email %}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>This site was created using <a href = "https://jekyllrb.com/">Jekyll</a>. You can find the source code for my website <a href = "https://github.com/sanalsprasad/website">here</a>. </p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

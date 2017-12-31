@@ -1,0 +1,1 @@
+This is the source code for my personal(professional?) [website](http://www-personal.umich.edu/~sanal). This was built using [Jekyll](https://jekyllrb.com/) using the theme [minima](https://github.com/jekyll/minima). Feel free to fork and use the code.

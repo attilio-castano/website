@@ -1,7 +1,7 @@
 ---
 layout: post 
 title:
-permalink: teaching/Win18Math115
+permalink: teaching/Win18Math115/
 ---
 
 ## Math 115-003, Calculus-I, Winter 2018

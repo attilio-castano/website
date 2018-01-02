@@ -8,6 +8,8 @@ permalink: teaching/Win18Math115/
 
 The course website is [http://www.math.lsa.umich.edu/courses/115/](http://www.math.lsa.umich.edu/courses/115/). 
 
+For the course policies, refer to the [first-day handout](FirstDayHandout.pdf).
+
 ### Announcements
 
 

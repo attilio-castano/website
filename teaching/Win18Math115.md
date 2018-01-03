@@ -11,7 +11,7 @@ The course website is [http://www.math.lsa.umich.edu/courses/115/](http://www.ma
 For the course policies, refer to the [first-day handout](FirstDayHandout.pdf).
 
 ### Announcements
-
+**Tentative Office Hours**: Sat 10 am-12 noon.
 
 ### Important Links
 * [Course Website](http://www.math.lsa.umich.edu/courses/115/)
